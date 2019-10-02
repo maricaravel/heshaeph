@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ethaishahz.thompsonfrench.com/sitemap.xml
